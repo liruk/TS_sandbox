@@ -9,7 +9,7 @@
 
     @Component
     export default class MyButton extends Vue{
-        private count: number = 0;
+        private count = 0;
 
         @Prop()
         public greet?: string;

@@ -18,7 +18,7 @@
         }
 
         @Emit()
-        public input(value:string){
+        public input(value: string){
 
         }
         public onClick(){
